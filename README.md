@@ -27,15 +27,15 @@ If you write a function component, and then you want to add some state to it, pr
 
 # Basic Hooks
 
-- <a href="https://github.com/mmuazam98/react-hooks/src/Hooks/useState.js">`useState`
-- <a href="https://github.com/mmuazam98/react-hooks/src/Hooks/useEffect.js">`useEffect`
-- <a href="https://github.com/mmuazam98/react-hooks/src/Hooks/useContext">`useContext`
+- <a href="https://github.com/mmuazam98/react-hooks/blob/main/src/Hooks/useState.js">`useState`
+- <a href="https://github.com/mmuazam98/react-hooks/blob/main/src/Hooks/useEffect.js">`useEffect`
+- <a href="https://github.com/mmuazam98/react-hooks/blob/main/src/Hooks/useContext">`useContext`
 
 # Additional Hooks
 
-- <a href="https://github.com/mmuazam98/react-hooks/src/Hooks/useReducer.js">`useReducer`
-- <a href="https://github.com/mmuazam98/react-hooks/src/Hooks/useCallback.js">`useCallback`
-- <a href="https://github.com/mmuazam98/react-hooks/src/Hooks/useMemo.js">`useMemo`
-- <a href="https://github.com/mmuazam98/react-hooks/src/Hooks/useRef.js">`useRef`
-- <a href="https://github.com/mmuazam98/react-hooks/src/Hooks/useImerpativeHandle.js">`useImerpativeHandle`
-- <a href="https://github.com/mmuazam98/react-hooks/src/Hooks/useLayoutEffect.js">`useLayoutEffect`
+- <a href="https://github.com/mmuazam98/react-hooks/blob/main/src/Hooks/useReducer.js">`useReducer`
+- <a href="https://github.com/mmuazam98/react-hooks/blob/main/src/Hooks/useCallback.js">`useCallback`
+- <a href="https://github.com/mmuazam98/react-hooks/blob/main/src/Hooks/useMemo.js">`useMemo`
+- <a href="https://github.com/mmuazam98/react-hooks/blob/main/src/Hooks/useRef.js">`useRef`
+- <a href="https://github.com/mmuazam98/react-hooks/blob/main/src/Hooks/useImerpativeHandle.js">`useImerpativeHandle`
+- <a href="https://github.com/mmuazam98/react-hooks/blob/main/src/Hooks/useLayoutEffect.js">`useLayoutEffect`
