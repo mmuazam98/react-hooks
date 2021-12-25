@@ -1,25 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import EffectTutorial from "./Hooks/useEffect";
+import LayoutEffectTutorial from "./Hooks/useLayoutEffect";
+import ReducerTutorial from "./Hooks/useReducer";
+import RefTutorial from "./Hooks/useRef";
+import StateTutorial from "./Hooks/useState";
+import ImperativeTutorial from "./Hooks/useImperativeHandle";
+import ContextTutorial from "./Hooks/useContext/useContext";
+import MemoTutorial from "./Hooks/useMemo";
+import CallBackTutorial from "./Hooks/useCallback";
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <StateTutorial />
+      <ReducerTutorial />
+      <EffectTutorial />
+      <RefTutorial />
+      <LayoutEffectTutorial />
+      <ImperativeTutorial />
+      <ContextTutorial />
+      <MemoTutorial />
+      <CallBackTutorial />
     </div>
   );
-}
+};
 
 export default App;
